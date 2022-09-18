@@ -1,0 +1,4 @@
+﻿Build/*
+!.gitkeep
+
+Data/probe.hdr

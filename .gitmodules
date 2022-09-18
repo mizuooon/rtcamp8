@@ -1,0 +1,10 @@
+[submodule "Xitils"]
+	path = Xitils
+	url = https://github.com/mizuooon/Xitils
+	branch = develop
+[submodule "ThirdParty/OpenImageDenoise"]
+	path = ThirdParty/OpenImageDenoise
+	url = https://github.com/OpenImageDenoise/oidn
+[submodule "ThirdParty/oneTBB"]
+	path = ThirdParty/oneTBB
+	url = https://github.com/oneapi-src/oneTBB
