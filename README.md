@@ -1,6 +1,8 @@
 ### 概要
 [レイトレ合宿8](https://sites.google.com/view/raytracingcamp8) 用のレイトレーサーです。
 
+[発表スライド](slide.pdf)
+
 ![レンダリング結果](Data/result.png)
 
 [Position-free Multiple-bounce Computations for Smith Microfacet BSDFs](https://wangningbei.github.io/2022/MBBRDF.html) を実装し、
