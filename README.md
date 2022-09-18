@@ -2,6 +2,7 @@
 [レイトレ合宿8](https://sites.google.com/view/raytracingcamp8) 用のレイトレーサーです。
 
 [発表スライド](slide.pdf)
+[レンダリング結果(動画)](result.mp4)
 
 ![レンダリング結果](Data/result.png)
 
